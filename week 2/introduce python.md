@@ -9,7 +9,9 @@
 
 <img width="620" height="775" alt="image" src="https://github.com/user-attachments/assets/516c623a-a344-4311-9fc1-ac22b9367769" />
 
-<img width="649" height="759" alt="image" src="https://github.com/user-attachments/assets/ade75b9a-2b64-4453-aaa3-947cb925cfc2" />
+
+<img width="586" height="731" alt="image" src="https://github.com/user-attachments/assets/640d7893-366a-4f92-97d0-134bb3e7f8e8" />
+
 
 <img width="522" height="749" alt="image" src="https://github.com/user-attachments/assets/d8fd75f4-d73f-47b1-8fb3-644dc49e668a" />
 
