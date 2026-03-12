@@ -1,4 +1,4 @@
-# 📊 [Project Name]: Transforming Raw Data into Actionable Insights
+# 📊 data analysis and computer applications: Transforming Raw Data into Actionable Insights
 
 > A comprehensive data analysis pipeline designed to uncover hidden patterns and drive data-informed decisions.
 
