@@ -63,3 +63,8 @@ I am applying these advanced mutations to my specific Data Science projects:
 ---
 
 ### 📸 Lab Execution Gallery
+<img width="770" height="646" alt="image" src="https://github.com/user-attachments/assets/8a536dd0-ed6b-4eb1-97fd-7b8929a83cb3" />
+<img width="862" height="674" alt="image" src="https://github.com/user-attachments/assets/f272ae39-c707-4a66-bdd4-5dcc353beec4" />
+<img width="743" height="742" alt="image" src="https://github.com/user-attachments/assets/3a861779-f671-48b8-8f68-0cbb840ac6c9" />
+<img width="900" height="645" alt="image" src="https://github.com/user-attachments/assets/f1312d5f-a357-406f-bc06-eff0c06794da" />
+<img width="851" height="389" alt="image" src="https://github.com/user-attachments/assets/7e341e54-bc2c-449d-a6df-61da827fb2d4" />
