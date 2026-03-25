@@ -61,3 +61,8 @@ I am integrating these "Sculpting" techniques into my current Data Science journ
 ---
 
 ### 📸 Lab Execution Gallery
+<img width="865" height="547" alt="image" src="https://github.com/user-attachments/assets/6c57c758-36e9-4c50-9e58-02e91d66b156" />
+<img width="932" height="559" alt="image" src="https://github.com/user-attachments/assets/64209f81-90ca-4b47-b4de-6b042576c3b8" />
+<img width="744" height="506" alt="image" src="https://github.com/user-attachments/assets/eb925b4b-9c99-4cdf-8923-4e518dea52c9" />
+<img width="844" height="586" alt="image" src="https://github.com/user-attachments/assets/46621032-5834-4594-8a19-3d54caac1aa4" />
+<img width="856" height="404" alt="image" src="https://github.com/user-attachments/assets/6c4c0326-635d-4886-9458-8bc20e57089d" />
