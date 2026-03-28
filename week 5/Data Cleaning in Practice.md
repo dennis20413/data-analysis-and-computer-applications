@@ -25,8 +25,6 @@ This week covers the essential transition from **Raw Data** to **Analysis-Ready 
 * **The Null Mask:** Using `.isnull()` converts a complex dataset into a simple **Boolean Grid** (True/False). Since computers process 1s and 0s better than empty space, this is the first step in any automated cleaning script.
 * **Health Audits:** `.info()` provides a 1-second diagnostic for datasets with millions of rows, showing exactly where the "holes" are.
 
-[Image of data cleaning process showing raw data to clean data]
-
 ### 2. Handling Missing Values (NaN)
 * **Strict Deletion (`.dropna()`):** Guarantees mathematical purity but risks losing valuable lateral data.
 * **Smart Imputation (`.fillna()`):**
@@ -58,7 +56,6 @@ This week covers the essential transition from **Raw Data** to **Analysis-Ready 
 * **One-Hot Encoding (`get_dummies`):** Algorithms cannot multiply "Male" x "Female". This converts categories into binary arrays (0s and 1s), the official language of AI models.
 * **Z-Score Anomaly Detection:** Instead of guessing "outliers," we use `scipy.stats` to identify data points that are 3+ standard deviations away from the mean—the mathematical threshold for "Abnormal."
 
-[Image of normal distribution curve showing z-score outliers]
 
 ---
 
