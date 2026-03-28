@@ -48,7 +48,7 @@ As a Data Science student and Esports professional, I am applying these "Lab" co
 ---
 
 ## 🛠️ Tech Stack & Skills
-* **Language:** Python 3.x (VS Code environment)
+* **Language:** Python 3.x
 * **Libraries:** Pandas, NumPy
 * **Competencies:** Data Auditing, Vectorized Operations, Boolean Masking, Dimensionality Management.
 
