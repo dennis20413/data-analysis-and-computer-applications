@@ -54,7 +54,7 @@ I am integrating these "Sculpting" techniques into my current Data Science journ
 ---
 
 ## 🛠️ Tech Stack & Skills
-* **Language:** Python 3.x (VS Code environment)
+* **Language:** Python 3.x
 * **Library:** Pandas (The Data Sculptor)
 * **Competencies:** Categorical Filtering, Statistical Summarization, Data Type Protection, ETL Pipelines.
 
