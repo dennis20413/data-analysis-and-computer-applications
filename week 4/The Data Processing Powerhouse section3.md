@@ -56,7 +56,7 @@ I am applying these advanced mutations to my specific Data Science projects:
 
 ## 🛠️ Tech Stack & Skills
 * **Language:** Python 3.x
-* **Core Library:** Pandas (Advanced API)
+* **Core Library:** Pandas
 * **Algorithms:** Split-Apply-Combine, Data Imputation, Bitwise Logic.
 * **Environment:** GoogleColab
 
