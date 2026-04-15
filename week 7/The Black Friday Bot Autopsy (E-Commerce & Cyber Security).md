@@ -69,6 +69,33 @@ Integrating Forensic EDA into my professional Data Science toolkit:
 ---
 
 ### 📸 Lab Execution Gallery
-*(The execution results of the Bot Anomaly Detector and Server Load Dashboard are attached below)*
-
----
+<img width="758" height="254" alt="image" src="https://github.com/user-attachments/assets/b89d6fbb-082a-45bc-bb54-71eef2b7d998" />
+<img width="836" height="703" alt="image" src="https://github.com/user-attachments/assets/6b3d2bdd-1a58-4b81-9be1-6db72e86d879" />
+<img width="930" height="684" alt="image" src="https://github.com/user-attachments/assets/eeab902b-1acc-485c-8b4e-0ef46498849f" />
+<img width="1402" height="737" alt="image" src="https://github.com/user-attachments/assets/d5d14422-1ea8-4971-863d-33ba5351e134" />
+<img width="928" height="673" alt="image" src="https://github.com/user-attachments/assets/ca6bc485-00bf-408d-8901-5725992d1f4c" />
+<img width="941" height="634" alt="image" src="https://github.com/user-attachments/assets/4bc282b4-ff0e-4df1-8b70-63abd0230fa6" />
+<img width="842" height="663" alt="image" src="https://github.com/user-attachments/assets/2311fa42-5037-41ee-8b41-8c78cebd410e" />
+<img width="863" height="655" alt="image" src="https://github.com/user-attachments/assets/e9e3e543-b699-4bf5-b32e-9c76618fb303" />
+<img width="880" height="671" alt="image" src="https://github.com/user-attachments/assets/36ef7a8a-b328-4fdb-ba16-cf31ab61ccd7" />
+<img width="840" height="641" alt="image" src="https://github.com/user-attachments/assets/bdebb7e6-5e22-462b-8b2f-133665f7670a" />
+<img width="945" height="689" alt="image" src="https://github.com/user-attachments/assets/19482ad7-77df-4e47-8ea3-de850ab299c4" />
+<img width="1404" height="694" alt="image" src="https://github.com/user-attachments/assets/8eea2569-7839-4f13-b770-c925b2592ea7" />
+<img width="882" height="616" alt="image" src="https://github.com/user-attachments/assets/9258b829-02e0-4973-b6f6-fa594ac4c7eb" />
+<img width="874" height="661" alt="image" src="https://github.com/user-attachments/assets/b161cd98-a5d9-4dc3-a9fe-799dcb18985f" />
+<img width="956" height="651" alt="image" src="https://github.com/user-attachments/assets/5aaf1bb5-2f0e-4c21-b122-bffa75eb9370" />
+<img width="1137" height="566" alt="image" src="https://github.com/user-attachments/assets/3d3148bd-f699-476d-8ee7-cfe6314647d2" />
+<img width="1436" height="714" alt="image" src="https://github.com/user-attachments/assets/27affbe3-f209-4fc7-8a44-9a540efc8c7d" />
+<img width="898" height="649" alt="image" src="https://github.com/user-attachments/assets/b97ee84d-f3f8-4584-b7f6-9727846394c3" />
+<img width="850" height="630" alt="image" src="https://github.com/user-attachments/assets/ef818bde-3f1d-4bb3-bb68-8e7ad7eda213" />
+<img width="867" height="592" alt="image" src="https://github.com/user-attachments/assets/5dfeb5a0-1dd3-49fb-a925-7be7fbd87de1" />
+<img width="892" height="626" alt="image" src="https://github.com/user-attachments/assets/a5315f70-ff0e-4870-abf4-aa49d7bd12ad" />
+<img width="840" height="566" alt="image" src="https://github.com/user-attachments/assets/cb9d7a66-cb25-492a-a33c-31db3a2f193a" />
+<img width="870" height="745" alt="image" src="https://github.com/user-attachments/assets/b89b1bc1-e221-4897-a4f4-8cf56097c81f" />
+<img width="1106" height="558" alt="image" src="https://github.com/user-attachments/assets/ba4468bc-660c-48ce-a699-e75d9b569fd5" />
+<img width="871" height="635" alt="image" src="https://github.com/user-attachments/assets/c28e7887-59f4-4fdf-babc-eaaad00fe47a" />
+<img width="953" height="656" alt="image" src="https://github.com/user-attachments/assets/182a5922-e0c5-4ebb-b104-53990d369536" />
+<img width="935" height="763" alt="image" src="https://github.com/user-attachments/assets/54bdb2bc-bd73-4bb7-aff5-a6d293c224ae" />
+<img width="921" height="602" alt="image" src="https://github.com/user-attachments/assets/eeadc327-b16e-4fb9-bd82-1940f8adc7c9" />
+<img width="845" height="656" alt="image" src="https://github.com/user-attachments/assets/d24c909e-0ab8-4655-88d1-05759913c169" />
+<img width="840" height="664" alt="image" src="https://github.com/user-attachments/assets/3ac8d4dd-454e-4138-8a5d-073ed8a4f087" />
