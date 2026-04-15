@@ -1,4 +1,4 @@
-# 🏗️ Unit 04: Data Cleaning in Practice
+# 🏗️ Data Cleaning in Practice
 
 ## 📝 Overview: The War Against GIGO
 **Data Cleaning** is the process of fixing or removing incorrect, corrupted, incorrectly formatted, duplicate, or incomplete data within a dataset. In Data Science, we follow the principle of **GIGO (Garbage In, Garbage Out)**: even the most advanced AI model will fail if fed with "dirty" data.
