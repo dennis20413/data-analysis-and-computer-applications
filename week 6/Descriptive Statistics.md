@@ -1,4 +1,4 @@
-# 🏗️ Unit 05: Descriptive Statistics & Exploratory Data Analysis (EDA)
+# Descriptive Statistics & Exploratory Data Analysis (EDA)
 
 ## 📝 Overview: Summarizing Reality
 **Descriptive Statistics** is the mathematical discipline of summarizing, organizing, and simplifying large datasets into digestible information. It serves as the absolute first step in the data lifecycle, occurring immediately after data acquisition and before predictive modeling, a phase universally known as **Exploratory Data Analysis (EDA)**.
