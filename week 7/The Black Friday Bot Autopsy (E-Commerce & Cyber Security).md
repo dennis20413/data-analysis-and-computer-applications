@@ -1,4 +1,4 @@
-# 🛒 Unit 05: Descriptive Statistics & Forensic EDA — The Black Friday Bot Autopsy
+# 🛒 Descriptive Statistics & Forensic EDA — The Black Friday Bot Autopsy
 
 ## 📝 Executive Summary
 This project focuses on **Forensic Exploratory Data Analysis (EDA)** within a high-pressure e-commerce environment. By analyzing server traffic logs from a simulated Black Friday crash, I utilized descriptive statistics to distinguish organic human shoppers from malicious bot activity. The primary objective was to establish traffic baselines and identify anomalies that threaten system integrity and marketing data accuracy.
